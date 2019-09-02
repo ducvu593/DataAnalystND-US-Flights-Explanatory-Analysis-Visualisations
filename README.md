@@ -5,7 +5,7 @@ The datasets under investigation contain information about all US Flights in 200
 The main emphasis of this project is to provide exploratory and explanatory data analysis through stunning visualisations in the form of charts, line graphs, heatmaps, etc.. 
 The exploratory data analysis consists of three sections: univariate (single variable), bivariate (two variables), and multivariate (multiple variables) exploration.
 
-In addition, a slide deck presentation is created to summarise the most interesting insights. Through GitHub, this file will run normally as a HTML file (see below on how to open the HTML file).
+In addition, a slide deck presentation is created to summarise the most interesting insights (slides.html extension). Through GitHub, this file can run normally as a HTML file (see below on how to open the HTML file).
 
 
 ### Running the Code in Jupyter Notebook 
