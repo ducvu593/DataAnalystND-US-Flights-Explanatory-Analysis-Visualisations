@@ -7,6 +7,13 @@ The exploratory data analysis consists of three sections: univariate (single var
 
 In addition, a slide deck presentation is created to summarise the most interesting insights (slides.html extension). Through GitHub, this file can run normally as a HTML file (see below on how to open the HTML file).
 
+### Quick Guide
+
+- A concise summary of the most interesting insights: **US_Flights_Slide_Deck_Presentation_GitHub.slides.html**. Open the file and prepend the URL with the URL link shown in the last section. 
+- View the comprehensive code and comments: 
+    1. Open the **US_Flights_Visualisation_Exploration.ipynb** and view it straight on GitHub, or
+    2. Open the **US_Flights_Visualisation_Exploration.html** and prepend the URL with the URL link shown in the last section.
+- Run the code: Follow the steps in the next section using the file **US_Flights_Visualisation_Exploration.ipynb**.
 
 ### Running the Code in Jupyter Notebook 
 
