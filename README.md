@@ -1,5 +1,4 @@
 # Explanatory Analysis and Visualisations - US Flights
-This is the final project of the Udacity's "Data Analyst Nanodegree". 
 The datasets under investigation contain information about all US Flights in 2008 and other years. 
 
 The main emphasis of this project is to provide exploratory and explanatory data analysis on the flights dataset through stunning visualisations in the form of charts, line graphs, heatmaps, etc.. 
