@@ -1,5 +1,5 @@
 # Explanatory Analysis and Visualisations - US Flights
-The datasets under investigation contain information about all US Flights in 2008 and other years. 
+The dataset under investigation contain information about all US Flights primarily in 2008. Brief comparisons to flights from others years are also visualised.  
 
 The main emphasis of this project is to provide exploratory and explanatory data analysis on the flights dataset through stunning visualisations in the form of charts, line graphs, heatmaps, etc.. 
 The exploratory data analysis consists of three sections: univariate (single variable), bivariate (two variables), and multivariate (multiple variables) exploration.
